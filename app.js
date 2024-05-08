@@ -17,6 +17,10 @@ console.log(lotr.name);
 console.log(lotr.edition);
 
 // Lord of the rings as a instance of book class
+// Class is blueprint
+// Instance is thing we build based on the blueprint
+// verb is istantiate
+
 
 // Do things with those isntaces
 
